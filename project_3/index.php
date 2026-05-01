@@ -1,6 +1,6 @@
 <?php include 'config.php'; ?>
 <link rel="stylesheet" href="style.css">
-<header><H1><B> Kampala University student portal </B></H1></header>
+<header><H1><B> Kampala University student Application portal </B></H1></header>
 
 <nav>
     <a href="index.php">Home</a>
